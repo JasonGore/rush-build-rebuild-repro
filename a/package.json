@@ -1,0 +1,12 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"build A\"",
+    "rebuild": "echo \"rebuild A\""
+  },
+  "author": "",
+  "license": "ISC"
+}
