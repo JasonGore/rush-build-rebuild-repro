@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build": "echo \"build B\"",
-    "rebuild": "echo \"rebuild B\""
   },
   "author": "",
   "license": "ISC",

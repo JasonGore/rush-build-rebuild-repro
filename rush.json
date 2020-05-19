@@ -16,7 +16,7 @@
    * path segment in the "$schema" field for all your Rush config files.  This will ensure
    * correct error-underlining and tab-completion for editors such as VS Code.
    */
-  "rushVersion": "5.21.0",
+  "rushVersion": "5.23.1",
 
   /**
    * The next field selects which package manager should be installed and determines its version.
@@ -88,7 +88,7 @@
    * Specify a SemVer range to ensure developers use a Node.js version that is appropriate
    * for your repo.
    */
-  "nodeSupportedVersionRange": ">=10.13.0 <11.0.0",
+  "nodeSupportedVersionRange": ">=10.13.0 <13.0.0",
 
   /**
   * Odd-numbered major versions of Node.js are experimental.  Even-numbered releases

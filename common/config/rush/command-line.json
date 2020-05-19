@@ -106,14 +106,8 @@
       "commandKind": "bulk",
       "name": "build",
       "enableParallelism": true,
-      "ignoreMissingScript": false,
+      "ignoreMissingScript": true,
       "incremental": true
-    },
-    {
-      "commandKind": "bulk",
-      "name": "rebuild",
-      "enableParallelism": true,
-      "ignoreMissingScript": false
     }
   ],
 
